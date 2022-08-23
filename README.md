@@ -10,6 +10,6 @@ Program Menu:
 
 ## PROGRAM PREVIEW
 -------
-<img src="pic modul1.jpg" alt="isolated" width="700"/>
+<img src="picEmpProg.jpg" alt="isolated" width="700"/>
 
 -------
