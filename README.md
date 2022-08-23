@@ -3,8 +3,8 @@
 
 Program Menu:
 
-1. Access employee data
-2. Add employee data
+1. Report employee data
+2. Create employee data
 3. Change employee data
 4. Delete employee data
 
